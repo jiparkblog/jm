@@ -125,57 +125,57 @@ a:visited {
 
 .slide{
     box-sizing: border-box;
-    background-size: cover;
-    background-position: 50% 50%;
+ background-size: cover;
+  background-position: center;
     background-repeat: no-repeat;
 }
 
-.slide:nth-of-type(1){background-image: url('../Images/img1.png');}
-.slide:nth-of-type(2){background-image: url('../Images/img2.png');}
-.slide:nth-of-type(3){background-image: url('../Images/img3.png');}
-.slide:nth-of-type(4){background-image: url('../Images/img4.png');}
-.slide:nth-of-type(5){background-image: url('../Images/img5.png');}
-.slide:nth-of-type(6){background-image: url('../Images/img6.png');}
-.slide:nth-of-type(7){background-image: url('../Images/img7.png');}
-.slide:nth-of-type(8){background-image: url('../Images/img8.png');}
-.slide:nth-of-type(9){background-image: url('../Images/img9.png');}
-.slide:nth-of-type(10){background-image: url('../Images/img10.png');}
-.slide:nth-of-type(11){background-image: url('../Images/img11.png');}
-.slide:nth-of-type(12){background-image: url('../Images/img12.png');}
-.slide:nth-of-type(13){background-image: url('../Images/img13.png');}
-.slide:nth-of-type(14){background-image: url('../Images/img14.png');}
-.slide:nth-of-type(15){background-image: url('../Images/img15.png');}
-.slide:nth-of-type(16){background-image: url('../Images/img16.png');}
-.slide:nth-of-type(17){background-image: url('../Images/img17.png');}
-.slide:nth-of-type(18){background-image: url('../Images/img18.png');}
-.slide:nth-of-type(19){background-image: url('../Images/img19.png');}
-.slide:nth-of-type(20){background-image: url('../Images/img20.png');}
-.slide:nth-of-type(21){background-image: url('../Images/img21.png');}
-.slide:nth-of-type(22){background-image: url('../Images/img22.png');}
-.slide:nth-of-type(23){background-image: url('../Images/img23.png');}
-.slide:nth-of-type(24){background-image: url('../Images/img24.png');}
-.slide:nth-of-type(25){background-image: url('../Images/img25.png');}
-.slide:nth-of-type(26){background-image: url('../Images/img26.png');}
-.slide:nth-of-type(27){background-image: url('../Images/img27.png');}
-.slide:nth-of-type(28){background-image: url('../Images/img28.png');}
-.slide:nth-of-type(29){background-image: url('../Images/img29.png');}
-.slide:nth-of-type(30){background-image: url('../Images/img30.png');}
-.slide:nth-of-type(31){background-image: url('../Images/img31.png');}
-.slide:nth-of-type(32){background-image: url('../Images/img32.png');}
-.slide:nth-of-type(33){background-image: url('../Images/img33.png');}
-.slide:nth-of-type(34){background-image: url('../Images/img34.png');}
-.slide:nth-of-type(35){background-image: url('../Images/img35.png');}
-.slide:nth-of-type(36){background-image: url('../Images/img36.png');}
-.slide:nth-of-type(37){background-image: url('../Images/img37.png');}
-.slide:nth-of-type(38){background-image: url('../Images/img38.png');}
-.slide:nth-of-type(39){background-image: url('../Images/img39.png');}
-.slide:nth-of-type(40){background-image: url('../Images/img40.png');}
-.slide:nth-of-type(41){background-image: url('../Images/img41.png');}
-.slide:nth-of-type(42){background-image: url('../Images/img42.png');}
-.slide:nth-of-type(43){background-image: url('../Images/img43.png');}
-.slide:nth-of-type(44){background-image: url('../Images/img44.png');}
-.slide:nth-of-type(45){background-image: url('../Images/img45.png');}
-.slide:nth-of-type(46){background-image: url('../Images/img46.png');}
+.slide:nth-of-type(1){background-image: url('../Images/1.png');}
+.slide:nth-of-type(2){background-image: url('../Images/2.png');}
+.slide:nth-of-type(3){background-image: url('../Images/3.png');}
+.slide:nth-of-type(4){background-image: url('../Images/4.png');}
+.slide:nth-of-type(5){background-image: url('../Images/5.png');}
+.slide:nth-of-type(6){background-image: url('../Images/6.png');}
+.slide:nth-of-type(7){background-image: url('../Images/7.png');}
+.slide:nth-of-type(8){background-image: url('../Images/8.png');}
+.slide:nth-of-type(9){background-image: url('../Images/9.png');}
+.slide:nth-of-type(10){background-image: url('../Images/10.png');}
+.slide:nth-of-type(11){background-image: url('../Images/11.png');}
+.slide:nth-of-type(12){background-image: url('../Images/12.png');}
+.slide:nth-of-type(13){background-image: url('../Images/13.png');}
+.slide:nth-of-type(14){background-image: url('../Images/14.png');}
+.slide:nth-of-type(15){background-image: url('../Images/15.png');}
+.slide:nth-of-type(16){background-image: url('../Images/16.png');}
+.slide:nth-of-type(17){background-image: url('../Images/17.png');}
+.slide:nth-of-type(18){background-image: url('../Images/18.png');}
+.slide:nth-of-type(19){background-image: url('../Images/19.png');}
+.slide:nth-of-type(20){background-image: url('../Images/20.png');}
+.slide:nth-of-type(21){background-image: url('../Images/21.png');}
+.slide:nth-of-type(22){background-image: url('../Images/22.png');}
+.slide:nth-of-type(23){background-image: url('../Images/23.png');}
+.slide:nth-of-type(24){background-image: url('../Images/24.png');}
+.slide:nth-of-type(25){background-image: url('../Images/25.png');}
+.slide:nth-of-type(26){background-image: url('../Images/26.png');}
+.slide:nth-of-type(27){background-image: url('../Images/27.png');}
+.slide:nth-of-type(28){background-image: url('../Images/28.png');}
+.slide:nth-of-type(29){background-image: url('../Images/29.png');}
+.slide:nth-of-type(30){background-image: url('../Images/30.png');}
+.slide:nth-of-type(31){background-image: url('../Images/31.png');}
+.slide:nth-of-type(32){background-image: url('../Images/32.png');}
+.slide:nth-of-type(33){background-image: url('../Images/33.png');}
+.slide:nth-of-type(34){background-image: url('../Images/34.png');}
+.slide:nth-of-type(35){background-image: url('../Images/35.png');}
+.slide:nth-of-type(36){background-image: url('../Images/36.png');}
+.slide:nth-of-type(37){background-image: url('../Images/37.png');}
+.slide:nth-of-type(38){background-image: url('../Images/38.png');}
+.slide:nth-of-type(39){background-image: url('../Images/39.png');}
+.slide:nth-of-type(40){background-image: url('../Images/40.png');}
+.slide:nth-of-type(41){background-image: url('../Images/41.png');}
+.slide:nth-of-type(42){background-image: url('../Images/42.png');}
+.slide:nth-of-type(43){background-image: url('../Images/43.png');}
+.slide:nth-of-type(44){background-image: url('../Images/44.png');}
+.slide:nth-of-type(45){background-image: url('../Images/45.png');}
+
 
 
 
